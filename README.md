@@ -1,1 +1,1 @@
-For this project, I built a few basic recipe websites using html and git. There is a home page which links to the recipe. I will style it up with CSS in the future
+For this project, I built a few basic recipe websites using HTML and git. There is a home page that links to the recipes. I will style it up with CSS in the future
